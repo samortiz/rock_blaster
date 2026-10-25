@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rock Blaster</string>
+    <string name="title_activity_main">Rock Blaster</string>
+    <string name="package_name">com.sortiz.rockblaster</string>
+    <string name="custom_url_scheme">com.sortiz.rockblaster</string>
+</resources>
